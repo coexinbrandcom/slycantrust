@@ -9,7 +9,7 @@
  */
 
 
-import { WfuLightbox } from 'https://cdn.jsdelivr.net/gh/coexinbrandcom/slycantrust/webflow-element-lightbox.js';
+import { WfuLightbox } from ../coexinbrandcom/slycantrust/webflow-element-lightbox.js';
 
 $(function () {
  
