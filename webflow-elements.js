@@ -9,7 +9,7 @@
  */
 
 
-import { WfuLightbox } from ../slycantrust/webflow-element-lightbox.js';
+import { WfuLightbox } from '/webflow-element-lightbox.js';
 
 $(function () {
  
