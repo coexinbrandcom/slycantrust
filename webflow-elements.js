@@ -9,7 +9,7 @@
  */
 
 
-import { WfuLightbox } from ../coexinbrandcom/slycantrust/webflow-element-lightbox.js';
+import { WfuLightbox } from ../slycantrust/webflow-element-lightbox.js';
 
 $(function () {
  
